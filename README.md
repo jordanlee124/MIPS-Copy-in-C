@@ -21,7 +21,7 @@ To run this project, you will have to download this repository as a zip file.
 
 Then, unzip this file open a terminal in the file location.
 
-You will need to have a text file with MIPS code that is able to be executed by this program. (A MIPS code containing the operations mentioned above)
+You will need to have a text file (e.g. text.txt) with MIPS code that is able to be executed by this program. (A MIPS code containing the operations mentioned above)
 
 In the terminal, run 
 ```bash 
